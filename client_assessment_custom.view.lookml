@@ -16,6 +16,7 @@
     sql: ${TABLE}.ref_client_assessment_demographics
 
   - dimension: age_13_17
+    label: '13 to 17'
     type: int
     sql: ${TABLE}.age_13_17
 
